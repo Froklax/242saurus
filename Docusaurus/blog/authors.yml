@@ -1,3 +1,21 @@
+gracekarinn:
+  name: Bertrand Gwynfory Iskandar
+  title: Random Guy 1
+  url: https://github.com/Froklax
+  image_url: https://github.com/Froklax.png
+  page: true
+  socials:
+    github: Froklax
+
+widaputri:
+  name: Ahmad Nizar Sauki
+  title: Random Guy 2
+  url: https://github.com/4hmadanbiy4
+  image_url: https://github.com/4hmadanbiy4.png
+  page: true
+  socials:
+    github: 4hmadanbiy4
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
